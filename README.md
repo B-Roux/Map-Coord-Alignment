@@ -1,5 +1,7 @@
 # Map-Coord-Alignment
 
+A short script meant to convert a pixel-coordinate in one image space (im) to another (imRef), with an optional color-based point extractor. Example driver:
+
 ```Py
     import time
 
