@@ -36,3 +36,5 @@ A short script meant to convert a pixel-coordinate in one image space (im) to an
     print('Press \'Enter\' to exit.')
     input()
 ```
+
+Please refer to docstrings for in-depth explanations of parameters and returns.
