@@ -1,0 +1,9 @@
+# Licensing agreement:
+# https://raw.githubusercontent.com/B-Roux/Map-Coord-Alignment/main/LICENSE
+# =============================================================================
+# This file is an informal list of requirements for this software, please refer
+# to the actual requirements documentation. Consider this a draft.
+
+sudo pip install numpy
+sudo apt install libgl1-mesa-glx
+sudo pip install opencv-python
